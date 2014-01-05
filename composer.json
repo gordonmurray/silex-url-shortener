@@ -1,11 +1,10 @@
 {
-    "name": "vendor_name/package_name",
-    "description": "A URL shortner built using Silex, Redbean and Twig",
-    "minimum-stability": "stable",
+    "name": "Sulner - A Silex URL Shortener",
+    "description": "A URL shortener built using Silex, Redbean and Twig",
     "authors": [
         {
             "name": "Gordon Murray",
-            "email": "gordon@murrion.com"
+            "email": "projects@murrion.com"
         }
     ],
     "require": {
