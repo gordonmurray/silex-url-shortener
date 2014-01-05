@@ -1,0 +1,16 @@
+{
+    "name": "vendor_name/package_name",
+    "description": "A URL shortner built using Silex, Redbean and Twig",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Gordon Murray",
+            "email": "gordon@murrion.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "v1.1.2",
+        "twig/twig": "1.6.5",
+        "gabordemooij/redbean": "v3.5.1"
+    }
+}
